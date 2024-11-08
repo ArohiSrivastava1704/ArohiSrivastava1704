@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **arohisrivastava9901@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-3dMVvzLt1IOZ2X0QaciFI4FFEEfL_dx/view?usp=drivesdk](https://drive.google.com/file/d/1-3dMVvzLt1IOZ2X0QaciFI4FFEEfL_dx/view?usp=drivesdk)
 
 - ⚡ Fun fact **😊😊😊**
 
