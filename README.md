@@ -10,8 +10,10 @@
   - 12th Grade: 65% (DAV School, 2020)  
   - 10th Grade: 85% (DAV School, 2018)
 
-- 📜 **Data Science Certification**:  
-  - Completed from 3rd Oct 2024 to 14th Dec 2024.   
+ 
+  - **Data Science Certification by ExcelR, Bangalore** *(Certificate image uploaded below)*:
+  - Completed from 3rd Oct 2024 to 14th Dec 2024.
+  <img src="your_certificate_image_path_here" alt="Data Science Certificate" width="400"/>
 
 - 📫 **How to reach me**: **arohisrivastava9901@gmail.com**  
 
@@ -47,10 +49,9 @@
 
 ---
 
----
-
 <h3 align="left">Deployment:</h3>
-- **Streamlit**
+- **Streamlit**  
+- **Flask (Basic)**  
 
 ---
 
@@ -73,6 +74,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+<img align="left" alt="Connect with me" width="40" src="https://cdn-icons-png.flaticon.com/512/1034/1034131.png" style="margin-right: 10px;"/>
 <p align="left">
 <a href="https://linkedin.com/in/arohi19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arohi19" height="30" width="40" /></a>
 <a href="https://github.com/arohisrivastava1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arohisrivastava1704" height="30" width="40" /></a>
@@ -81,6 +83,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="Languages and Tools" width="40" src="https://cdn-icons-png.flaticon.com/512/3407/3407088.png" style="margin-right: 10px;"/>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
