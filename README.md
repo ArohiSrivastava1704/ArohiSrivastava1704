@@ -24,7 +24,7 @@
 
 <h3 align="left">Skills:</h3>
 
-### Data Science Domains:
+###
 - **Data Science**  
 - **Core Python**  
 - **Machine Learning**  
@@ -38,6 +38,8 @@
 ---
 
 <h3 align="left">Tools:</h3>
+
+##
 - **Tableau**  
 - **Matplotlib**  
 - **Seaborn**  
@@ -51,6 +53,8 @@
 ---
 
 <h3 align="left">Deployment:</h3>
+
+##
 - **Streamlit**  
 - **Flask (Basic)**  
 
