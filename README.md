@@ -15,6 +15,12 @@
   - Completed from 3rd Oct 2024 to 14th Dec 2024.
   [View my Data Science Certificate](https://drive.google.com/file/d/1GjN_fYIFO2QkccBOijhfFD3S8yh_Pk82/view?usp=sharing)
 
+## Resume
+
+You can view my resume by clicking the link below:
+
+[My Resume](https://drive.google.com/file/d/1LPUEPInLQHSGdZhzEYIYWesCaUpyXiLu/view?usp=sharing)
+
 
 - 📫 **How to reach me**: **arohisrivastava9901@gmail.com**  
 
