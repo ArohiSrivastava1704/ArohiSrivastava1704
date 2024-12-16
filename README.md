@@ -25,15 +25,16 @@
 <h3 align="left">Skills:</h3>
 
 ###
-- **Data Science**  
-- **Core Python**  
+- **Core Python**
+- **Probability and Statistics**   
 - **Machine Learning**  
-- **Data Visualization and Analysis**  
-- **Probability and Statistics**  
-- **Deep Learning & AI**  
+- **Data Visualization and Analysis**   
+- **Deep Learning & Artificial Intelligence**  
 - **Time Series Analysis and Forecasting**  
 - **Natural Language Processing (NLP)**  
-- **MySQL**  
+- **MySQL**
+- **Tableau**
+- **R Programming (Basic)**
 
 ---
 
