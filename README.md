@@ -10,11 +10,47 @@
   - 12th Grade: 65% (DAV School, 2020)  
   - 10th Grade: 85% (DAV School, 2018)
 
-- 🌱 **Currently Learning**: Advanced Machine Learning techniques and Deployment with Streamlit
+- 📜 **Data Science Certification**:  
+  - Completed from 3rd Oct 2024 to 14th Dec 2024.   
 
-- 📫 **How to reach me**: **arohisrivastava9901@gmail.com**
+- 📫 **How to reach me**: **arohisrivastava9901@gmail.com**  
 
-- 💡 **Fun fact**: I love solving real-world problems using data! 😊
+- 💡 **Fun fact**: I enjoy exploring real-world problems using data! 😊  
+
+---
+
+<h3 align="left">Skills:</h3>
+
+### Data Science Domains:
+- **Data Science**  
+- **Core Python**  
+- **Machine Learning**  
+- **Data Visualization and Analysis**  
+- **Probability and Statistics**  
+- **Deep Learning & AI**  
+- **Time Series Analysis and Forecasting**  
+- **Natural Language Processing (NLP)**  
+- **MySQL**  
+
+---
+
+<h3 align="left">Tools:</h3>
+- **Tableau**  
+- **Matplotlib**  
+- **Seaborn**  
+- **NumPy**  
+- **Pandas**  
+- **Scikit-learn**  
+- **TensorFlow**  
+- **Keras (Basic)**  
+- **MS Excel (Basic)**  
+
+---
+
+---
+
+<h3 align="left">Deployment:</h3>
+- **Streamlit**
 
 ---
 
