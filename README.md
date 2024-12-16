@@ -13,7 +13,8 @@
  
   - **Data Science Certification by ExcelR, Bangalore** *(Certificate image uploaded below)*:
   - Completed from 3rd Oct 2024 to 14th Dec 2024.
-  <img src="your_certificate_image_path_here" alt="Data Science Certificate" width="400"/>
+  [View my Data Science Certificate](https://github.com/ArohiSrivastava1704/ArohiSrivastava1704/blob/main/Arohi%20Srivastava.pdf)
+
 
 - 📫 **How to reach me**: **arohisrivastava9901@gmail.com**  
 
