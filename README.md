@@ -19,7 +19,7 @@
 
 You can view my resume by clicking the link below:
 
-[My Resume](https://drive.google.com/file/d/1LPUEPInLQHSGdZhzEYIYWesCaUpyXiLu/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1HdZtunZGr-QJnCUl4kcC2hnxJsX8CMvL/view?usp=sharing)
 
 
 - 📫 **How to reach me**: **arohisrivastava9901@gmail.com**  
